@@ -25,9 +25,9 @@ If you have any suggestions or would like to contribute additional resources to 
 
 ## Contact
 If you have any questions, feel free to reach out to:
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [your LinkedIn profile link]
-- **GitHub**: [your GitHub profile link]
+- **Email**: saudhaminiupdated@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/saudhaminian/
+- **GitHub**: https://github.com/SaudhaminiAN
 
 Thank you for checking out these resources!
 
