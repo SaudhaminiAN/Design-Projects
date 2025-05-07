@@ -9,6 +9,11 @@ This repository contains the **PDF presentations** for the **AI** and **Data Ana
 ## Purpose
 These PDF presentations were created to provide a detailed understanding of AI and Data Analytics topics for students in the add-on courses at JB Group of Foundations, Perumbavoor. They are designed to be accessible to beginners and provide both theoretical knowledge and practical insights into these fields.
 
+## Access the Webinars
+You can access the webinar videos via the following public links:
+- **https://www.canva.com/design/DAGmkEz7ATE/b0D_3LquhMNSpAeXCgZ4ZQ/view?utm_content=DAGmkEz7ATE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5984f5fead**: A link to the AI webinar content hosted on Canva.
+- **https://www.canva.com/design/DAGmYJvqnWA/RZdQMjOToCMpHnm0wSaUxQ/view?utm_content=DAGmYJvqnWA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb84774fe1e**: A link to the Data Analytics webinar content hosted on Canva.
+
 ## How to Use
 - You can download and view the PDF presentations directly from this repository.
 - The files are organized into two main webinars:
